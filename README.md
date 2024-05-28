@@ -1,5 +1,16 @@
 # Rock-Paper-Scissors Game
 
+```bash
+               Welcome to our childhood games
+-------------------------------------------------------------
+ Hey guys lets start the game..
+-------Options---------
+1.stone
+2.paper
+3.scissor
+
+Enter your choice: 
+``` 
 ## Description
 This C program implements a simple Rock-Paper-Scissors game where the user competes against the computer. The game prompts the user to choose between stone, paper, or scissor and generates a random choice for the computer. After each round, the winner is determined based on the classic rules of the game.
 
@@ -20,5 +31,11 @@ This C program implements a simple Rock-Paper-Scissors game where the user compe
 ## Requirements
 - C compiler (e.g., GCC)
 - Standard C library (stdio.h)
+
+## Contacts  
+- Github: [**Github Profile**](https://github.com/Shibbi-0987/Shibbi-0987)
+
+- LinkedIn Id: [**LinkedIn Profile**](https://www.linkedin.com/in/shubham-negi-403619304/)
+
 
 
