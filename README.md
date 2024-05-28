@@ -22,3 +22,4 @@ This C program implements a simple Rock-Paper-Scissors game where the user compe
 - Standard C library (stdio.h)
 
 [Github Id](https://github.com/Shibbi-0987/stone_paper_scissor-C/edit/main/README.md)
+[LinkedIn Id](https://www.linkedin.com/in/shubham-negi-403619304/)
