@@ -33,7 +33,7 @@ This C program implements a simple Rock-Paper-Scissors game where the user compe
 - Standard C library (stdio.h)
 
 ## Contacts  
-- Github: [**Github Profile**](https://github.com/Shibbi-0987/Shibbi-0987)
+- Github: [**Github Profile**](https://github.com/Shibbi-0987)
 
 - LinkedIn Id: [**LinkedIn Profile**](https://www.linkedin.com/in/shubham-negi-403619304/)
 
