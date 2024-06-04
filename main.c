@@ -65,4 +65,5 @@ int main()
     {
         printf("Computer won the series of match");
     }
+    return 0;
 }
