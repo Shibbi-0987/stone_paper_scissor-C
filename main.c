@@ -10,7 +10,7 @@ int main()
     printf("-------------------------------------------------------------------\n");
     printf("Hey guys let's start the game..\n");
 
-    printf("-------Options---------");
+    printf("--------Options----------");
     printf("\n1.stone\n2.paper\n3.scissor\n\n");
 
     for (int i = 1; i <= 3; i++)
