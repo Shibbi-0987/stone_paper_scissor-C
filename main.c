@@ -6,7 +6,7 @@ int main()
     int randomNumber, rem = 0, y = 0, c = 0;
     int arr[3] = {1, 2, 3};
 
-     printf("              Welcome to our childhood games\n");
+     printf("--------------Welcome to our childhood games-----------------\n");
     printf("-------------------------------------------------------------------\n");
     printf("Hey guys let's start the game..\n");
 
